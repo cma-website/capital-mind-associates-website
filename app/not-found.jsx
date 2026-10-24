@@ -1,0 +1,1 @@
+export default function NotFound(){return <main id="main" className="legal wrap"><h1>Let’s get you to the right page.</h1><p>This page is not available.</p><a className="button navy" href="/">Return to Home</a></main>}

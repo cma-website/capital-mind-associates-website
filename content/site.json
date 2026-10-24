@@ -1,0 +1,324 @@
+[
+  {
+    "slug": "accounting-bookkeeping-delhi",
+    "name": "Accounting & Bookkeeping",
+    "heading": "Know what your numbers are telling you.",
+    "sub": "Accurate records. Clear business decisions.",
+    "description": "Organise sales, purchases, expenses and bank transactions into accounts you can use. Capital Mind Associates helps Delhi businesses understand profit, outstanding payments and cash movement.",
+    "image": 0,
+    "scope": [
+      [
+        "Bookkeeping & ledgers",
+        "Record transactions under the correct accounts, supported by invoices and vouchers. A ledger brings all entries for one account together."
+      ],
+      [
+        "Bank reconciliation",
+        "Compare bank statements with your books. Identify missing entries, bank charges and payments that need clarification."
+      ],
+      [
+        "Financial reporting",
+        "Prepare a balance sheet, profit and loss statement and cash-flow summary. A balance sheet shows assets, liabilities and owners\u2019 funds at a point in time."
+      ],
+      [
+        "Payroll & management reports",
+        "Organise salary inputs, payslips, receivables, payables and monthly MIS reports. MIS means management information: useful summaries for business decisions."
+      ]
+    ],
+    "docs": [
+      "Sales and purchase invoices",
+      "Bank statements and opening balances",
+      "Expense vouchers and loan statements",
+      "Payroll inputs and existing accounting backup"
+    ],
+    "faq": [
+      [
+        "Does bookkeeping include tax filing?",
+        "Bookkeeping records business transactions. GST, TDS and income-tax returns are separate tasks; we agree which services your engagement includes."
+      ],
+      [
+        "What reports can I receive?",
+        "Depending on the agreed scope, you can receive a trial balance, profit and loss statement, balance sheet, debtor and creditor ageing, and cash-flow summaries."
+      ],
+      [
+        "Can you help with pending accounts?",
+        "Yes. Start with the period to be updated, available records and existing software backup. We first identify missing information and agree the work required."
+      ]
+    ]
+  },
+  {
+    "slug": "gst-services-delhi",
+    "name": "GST Registration & Returns",
+    "heading": "Bring your invoices, returns and credits into line.",
+    "sub": "GST support that starts with your records.",
+    "description": "Get support with GST registration, return preparation, input tax credit reconciliation and notice documentation. We explain the information needed and review mismatches before submission.",
+    "image": 1,
+    "scope": [
+      [
+        "Registration & amendments",
+        "Review your business activity and registration requirements. Prepare application details and supporting documents; support changes in existing registration particulars."
+      ],
+      [
+        "GSTR-1, GSTR-3B & annual returns",
+        "Organise outward-supply details for GSTR-1 and summary tax information for GSTR-3B. Review GSTR-9 annual-return requirements for the relevant year."
+      ],
+      [
+        "ITC reconciliation",
+        "Match purchase records with GSTR-2B and investigate missing or different invoice details. Input tax credit eligibility needs separate review; an invoice appearing in a statement is not the only condition."
+      ],
+      [
+        "GST notice assistance",
+        "Read the issue, period and response requirement. Reconcile relevant records and prepare supporting explanations for review and authorised submission."
+      ]
+    ],
+    "docs": [
+      "PAN and business constitution records",
+      "Business-address and authorised-signatory documents",
+      "Sales, purchase and credit/debit-note data",
+      "Previous returns, GSTR-2B and any notice received"
+    ],
+    "faq": [
+      [
+        "What is the difference between GSTR-1 and GSTR-3B?",
+        "GSTR-1 reports outward supplies such as sales. GSTR-3B summarises tax liability and input tax credit for a tax period."
+      ],
+      [
+        "Why reconcile GST records?",
+        "Comparing books, return data and supplier information helps find omitted invoices, duplicates and mismatches before they become larger reporting problems."
+      ],
+      [
+        "Is GST registration approval guaranteed?",
+        "No. Approval rests with the department. Accurate documents and a complete application help the review process, but additional queries may be raised."
+      ]
+    ]
+  },
+  {
+    "slug": "itr-tax-consultancy-delhi",
+    "name": "ITR Filing & Tax Advisory",
+    "heading": "A clearer picture of your income and tax.",
+    "sub": "Income-tax support, explained simply.",
+    "description": "Prepare your income-tax return with an organised view of salary, business income, investments and tax already paid. We review documents, identify information gaps and explain the computation before filing.",
+    "image": 2,
+    "scope": [
+      [
+        "Individual ITR preparation",
+        "Bring together salary, interest, rental income, investment transactions and other income. The applicable return depends on your facts."
+      ],
+      [
+        "Business & professional income",
+        "Connect your accounts with the income-tax computation. Review reported income, expenses, depreciation and relevant supporting schedules."
+      ],
+      [
+        "Tax computation & planning",
+        "Compare available treatment where applicable, review evidence for claims and explain estimated tax. Tax planning must reflect actual transactions and eligibility."
+      ],
+      [
+        "TDS review & return support",
+        "Reconcile tax deducted at source with available records. Support TDS statement preparation and correction work under a separately agreed scope."
+      ]
+    ],
+    "docs": [
+      "PAN and relevant identity details",
+      "Form 16, AIS, tax-credit records and challans",
+      "Bank interest and investment transaction statements",
+      "Books of account and supporting claim documents"
+    ],
+    "faq": [
+      [
+        "Can you file returns for salaried and business taxpayers?",
+        "The service covers preparation support for different income profiles. We identify the suitable return and required schedules after reviewing your income sources."
+      ],
+      [
+        "What is TDS?",
+        "Tax deducted at source is tax withheld by a payer on certain payments. It needs to be checked against the income and tax-credit records used for your return."
+      ],
+      [
+        "Will I definitely receive a refund?",
+        "No. A refund depends on your final tax liability, tax paid and departmental processing. We do not promise a refund amount or processing date."
+      ]
+    ]
+  },
+  {
+    "slug": "company-llp-registration-delhi",
+    "name": "Company & LLP Registration",
+    "heading": "Give your business the right foundation.",
+    "sub": "From business structure to organised records.",
+    "description": "Understand the difference between a company and a limited liability partnership before you apply. We help organise incorporation information, supporting documents and the next compliance steps.",
+    "image": 3,
+    "scope": [
+      [
+        "Business structure review",
+        "Discuss ownership, management, funding and recurring compliance before choosing a structure. Incorporation is a business decision as well as a filing task."
+      ],
+      [
+        "Company incorporation support",
+        "Organise proposed names, director details, registered-office records and business objects for the relevant application workflow."
+      ],
+      [
+        "LLP registration support",
+        "Prepare partner information and incorporation records. Explain the role of the LLP agreement and subsequent compliance obligations."
+      ],
+      [
+        "Udyam & DSC assistance",
+        "Help you understand MSME/Udyam registration and digital signature requirements where relevant. Government registration charges and professional assistance fees are explained separately."
+      ]
+    ],
+    "docs": [
+      "Proposed names and business activity",
+      "Identity and address records of directors or partners",
+      "Registered-office proof and owner consent where required",
+      "Ownership, contribution and authorised-signatory details"
+    ],
+    "faq": [
+      [
+        "Does a company name protect my trademark?",
+        "No. Company name approval and trademark registration are separate processes. A separate trademark review is useful before investing in branding."
+      ],
+      [
+        "Should I choose a company or an LLP?",
+        "The answer depends on ownership, investment plans, management preferences and compliance needs. We explain the differences using your business plans."
+      ],
+      [
+        "What happens after registration?",
+        "Maintain records, set up the required operational registrations and understand annual and event-based filings. Our ROC compliance page explains the follow-up work."
+      ]
+    ]
+  },
+  {
+    "slug": "roc-filing-compliance-delhi",
+    "name": "ROC Filing & Annual Compliance",
+    "heading": "Keep company records ready for the next filing.",
+    "sub": "Compliance built around your entity.",
+    "description": "Organise company or LLP records and track the filings relevant to your business. Capital Mind Associates helps connect financial information, statutory records and filing documentation.",
+    "image": 3,
+    "scope": [
+      [
+        "Company annual filing support",
+        "Prepare supporting information for applicable annual returns and financial-statement filings. Requirements depend on the company and reporting period."
+      ],
+      [
+        "LLP annual compliance",
+        "Organise annual-return and account-related information. LLP Form 11 is an annual return; other requirements are reviewed separately."
+      ],
+      [
+        "Director & event-based records",
+        "Review the documentation required for applicable director KYC, appointment, registered-office or other corporate changes."
+      ],
+      [
+        "Pending filing review",
+        "Check available filing acknowledgements, identify gaps and agree a corrective workflow. Additional fees or legal consequences require case-specific review."
+      ]
+    ],
+    "docs": [
+      "CIN or LLPIN and incorporation records",
+      "Prior filings and acknowledgements",
+      "Financial statements and statutory records",
+      "Details of directors, partners and corporate changes"
+    ],
+    "faq": [
+      [
+        "Is ROC filing the same as an income-tax return?",
+        "No. ROC filings relate to corporate reporting with the Registrar of Companies. Income-tax returns report taxable income to the tax department."
+      ],
+      [
+        "Does an inactive business still need a review?",
+        "Yes. Lack of business activity does not automatically remove filing obligations. The entity\u2019s status and applicable rules must be checked."
+      ],
+      [
+        "Can you check older pending filings?",
+        "We can review the available records and filing history to identify the work required. Fees, consequences and available remedies depend on the case."
+      ]
+    ]
+  },
+  {
+    "slug": "trademark-registration-delhi",
+    "name": "Trademark Registration",
+    "heading": "Build a brand with protection in mind.",
+    "sub": "Your business name deserves a careful review.",
+    "description": "Get assistance with trademark search, class selection, application information and status tracking. We explain the stages so you understand what filing an application does\u2014and what it does not do.",
+    "image": 4,
+    "scope": [
+      [
+        "Search & class selection",
+        "Review similar marks and the goods or services you provide. Classification helps define the scope of the application; a search does not guarantee acceptance."
+      ],
+      [
+        "Application preparation",
+        "Organise owner details, mark representation and supporting information for the application. Government fees and assistance fees are separate."
+      ],
+      [
+        "Status & objection support",
+        "Track application progress and help organise a response to examination issues. Representation or specialist legal work is confirmed separately where needed."
+      ],
+      [
+        "Renewal & brand records",
+        "Maintain application and registration details and review renewal needs. Company registration and domain ownership do not replace trademark protection."
+      ]
+    ],
+    "docs": [
+      "Applicant identity and business constitution",
+      "Wordmark or logo and goods/services description",
+      "Use details and evidence, where applicable",
+      "Authorisation and existing application details, if any"
+    ],
+    "faq": [
+      [
+        "Is trademark registration guaranteed?",
+        "No. The Registry examines the application and third-party opposition may arise. Filing is the beginning of the process, not a registration certificate."
+      ],
+      [
+        "Can I apply for a name or a logo?",
+        "A wordmark and a logo can involve different protection considerations. Discuss how you use the brand before choosing what to apply for."
+      ],
+      [
+        "How long does protection last?",
+        "Trademark registration can be renewed for further ten-year periods under the applicable process. Track the specific registration and renewal requirements."
+      ]
+    ]
+  },
+  {
+    "slug": "business-loans-financial-reports-delhi",
+    "name": "Business Loans & Financial Reports",
+    "heading": "Present your business finances with clarity.",
+    "sub": "Better financial preparation for funding discussions.",
+    "description": "Bring your bank statements, financial accounts and funding purpose together. We support loan-document preparation, working-capital analysis, CMA data and project reports without promising lender approval.",
+    "image": 5,
+    "scope": [
+      [
+        "Business & working-capital finance",
+        "Prepare information for business loans, overdraft, cash credit and machinery funding. Match the funding need with the operating cycle and repayment capacity."
+      ],
+      [
+        "Property & other loan documentation",
+        "Discuss document assistance for loans against property, home, personal, vehicle or education loans. Product availability and terms depend on the lender."
+      ],
+      [
+        "CMA data & projections",
+        "Credit Monitoring Arrangement data presents financial information for lending assessment. Projections explain future estimates and the assumptions behind them."
+      ],
+      [
+        "Project reports & bank analysis",
+        "Describe the project, estimated cost, funding mix and expected cash flows. Review bank credits, debits, average balances and existing repayment commitments."
+      ]
+    ],
+    "docs": [
+      "Financial statements, ITRs and GST data",
+      "Bank statements and existing loan schedules",
+      "Business KYC and ownership records",
+      "Project cost, funding purpose and property details where relevant"
+    ],
+    "faq": [
+      [
+        "Do you directly approve or disburse loans?",
+        "No. Lenders decide approval, security, rates and disbursement. Our role is financial preparation and agreed application-document assistance."
+      ],
+      [
+        "What does working capital mean?",
+        "Working capital funds the everyday operating cycle: inventory, customer credit and routine expenses before cash is collected."
+      ],
+      [
+        "What is the difference between a project report and CMA data?",
+        "A project report explains a proposed activity and its economics. CMA data organises historical and projected financial information for credit review."
+      ]
+    ]
+  }
+]
