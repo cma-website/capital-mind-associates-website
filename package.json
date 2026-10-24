@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "node scripts/dev.mjs",
     "build": "next build --webpack",
-    "start": "node scripts/serve.mjs",
-    "check": "python3 scripts/verify.py"
+    "start": "node scripts/serve.mjs"
   },
   "dependencies": {
     "next": "16.3.6",
